@@ -3,282 +3,181 @@
 <language iso="ca_ES" name="Català">
 
   <text alias="yep">
-    <properties>
-      <string>sí</string>
-    </properties>
+    <string>sí</string>
   </text>
-
   <text alias="nope">
-    <properties>
-      <string>no</string>
-    </properties>
+    <string>no</string>
   </text>
-
   <text alias="new-game">
-    <properties>
-      <string>Nou joc</string>
-    </properties>
+    <string>Nou joc</string>
   </text>
-
   <text alias="blacktooth-empire">
-    <properties>
-      <string>L'Imperi Blacktooth</string>
-    </properties>
+    <string>L'Imperi Blacktooth</string>
   </text>
-
   <text alias="blacktooth">
-    <properties>
-      <string>Blacktooth</string>
-    </properties>
+    <string>Blacktooth</string>
   </text>
-
   <text alias="egyptus">
-    <properties>
-      <string>Egyptus</string>
-    </properties>
+    <string>Egyptus</string>
   </text>
-
   <text alias="penitentiary">
-    <properties>
-      <string>Penitentiary</string>
-    </properties>
+    <string>Penitentiary</string>
   </text>
-
   <text alias="byblos">
-    <properties>
-      <string>Byblos</string>
-    </properties>
+    <string>Byblos</string>
   </text>
-
   <text alias="safari">
-    <properties>
-      <string>Safari</string>
-    </properties>
+    <string>Safari</string>
   </text>
-
   <text alias="load-old-game">
-    <properties>
-      <string>Carregar joc</string>
-    </properties>
+    <string>Carrega un joc</string>
   </text>
-
-  <text alias="keys-menu">
-    <properties>
-      <string>Teclat</string>
-    </properties>
-  </text>
-
-  <text alias="movenorth">
-    <properties>
-      <string>Esquerra</string>
-    </properties>
-  </text>
-
-  <text alias="movesouth">
-    <properties>
-      <string>Dreta</string>
-    </properties>
-  </text>
-
-  <text alias="moveeast">
-    <properties>
-      <string>Amunt</string>
-    </properties>
-  </text>
-
-  <text alias="movewest">
-    <properties>
-      <string>Avall</string>
-    </properties>
-  </text>
-
-  <text alias="take">
-    <properties>
-      <string>Agafar/deixar</string>
-    </properties>
-  </text>
-
-  <text alias="jump">
-    <properties>
-      <string>Saltar</string>
-    </properties>
-  </text>
-
-  <text alias="doughnut">
-    <properties>
-      <string>Disparar</string>
-    </properties>
-  </text>
-
-  <text alias="takeandjump">
-    <properties>
-      <string>Agafar+Saltar</string>
-    </properties>
-  </text>
-
-  <text alias="swap">
-    <properties>
-      <string>Canvi</string>
-    </properties>
-  </text>
-
-  <text alias="pause">
-    <properties>
-      <string>Detenir</string>
-    </properties>
-  </text>
-
-  <text alias="confirm-quit">
-    <properties font="big" color="cyan">
-      <string>Prem Escape per a abandonar</string>
-    </properties>
-  </text>
-
-  <text alias="confirm-resume">
-    <properties font="big" color="yellow">
-      <string>Prem altra tecla per a continuar</string>
-    </properties>
-  </text>
-
-  <text alias="video-menu">
-    <properties>
-      <string>Video</string>
-    </properties>
-  </text>
-
-  <text alias="full-screen">
-    <properties>
-      <string>Pantalla sencera</string>
-    </properties>
-  </text>
-
-  <text alias="draw-shadows">
-    <properties>
-      <string>Dibuixa ombres</string>
-    </properties>
-  </text>
-
-  <text alias="draw-decor">
-    <properties>
-      <string>Dibuixa fons</string>
-    </properties>
-  </text>
-
-  <text alias="graphic-set">
-    <properties>
-      <string>Tria conjunt de gràfics</string>
-    </properties>
-  </text>
-
-  <text alias="audio-menu">
-    <properties>
-      <string>So</string>
-    </properties>
-  </text>
-
-  <text alias="soundfx">
-    <properties>
-      <string>Efectes sonors</string>
-    </properties>
-  </text>
-
-  <text alias="music">
-    <properties>
-      <string>Música</string>
-    </properties>
-  </text>
-
-  <text alias="play-room-melodies">
-  <properties>
-      <string>Música en entrar a sala</string>
-    </properties>
-  </text>
-
-  <text alias="show-credits">
-    <properties>
-      <string>Crèdits</string>
-    </properties>
-  </text>
-
-  <text alias="exit-game">
-    <properties>
-      <string>Sortir</string>
-    </properties>
-  </text>
-
-  <text alias="save-game">
-    <properties font="big" color="orange">
-      <string>Gràcies al peix de la reencarnació</string>
-    </properties>
-    <properties font="big" color="orange">
-      <string>pots gravar el joc prement SPACE</string>
-    </properties>
-  </text>
-
   <text alias="free-slot">
-    <properties>
-      <string>Disponible</string>
-    </properties>
+    <string>Espai lliure</string>
   </text>
-
+  <text alias="options-menu">
+    <string>Opcions</string>
+  </text>
+  <text alias="keys-menu">
+    <string>Teclat</string>
+  </text>
+  <text alias="movenorth">
+    <string>Esquerra</string>
+  </text>
+  <text alias="movesouth">
+    <string>Dreta</string>
+  </text>
+  <text alias="moveeast">
+    <string>Amunt</string>
+  </text>
+  <text alias="movewest">
+    <string>Avall</string>
+  </text>
+  <text alias="take">
+    <string>Agafa/deixa</string>
+  </text>
+  <text alias="jump">
+    <string>Salta</string>
+  </text>
+  <text alias="doughnut">
+    <string>Dispara</string>
+  </text>
+  <text alias="takeandjump">
+    <string>Agafa+Salta</string>
+  </text>
+  <text alias="swap">
+    <string>Canvia</string>
+  </text>
+  <text alias="pause">
+    <string>Pausa</string>
+  </text>
+  <text alias="automap">
+    <string>Mostra el map</string>
+  </text>
+  <text alias="video-menu">
+    <string>Vídeo</string>
+  </text>
+  <text alias="screen-size">
+    <string>Mida de la pantalla</string>
+  </text>
+  <text alias="custom-size">
+    <string>Mida personalitzada</string>
+  </text>
+  <text alias="full-screen">
+    <string>Pantalla sencera</string>
+  </text>
+  <text alias="draw-shadows">
+    <string>Dibuixa lesombres</string>
+  </text>
+  <text alias="draw-decor">
+    <string>Dibuixa el fons</string>
+  </text>
+  <text alias="show-miniatures">
+    <string>Mostra les miniatures de les habitacions</string>
+  </text>
+  <text alias="center-camera-on">
+    <string>Centra la càmera a</string>
+  </text>
+  <text alias="room">
+    <string>la sala</string>
+  </text>
+  <text alias="character">
+    <string>el personatge</string>
+  </text>
+  <text alias="graphic-set">
+    <string>Tria el conjunt de gràfics</string>
+  </text>
+  <text alias="audio-menu">
+    <string>So</string>
+  </text>
+  <text alias="soundfx">
+    <string>Efectes sonors</string>
+  </text>
+  <text alias="music">
+    <string>Música</string>
+  </text>
+  <text alias="play-room-melodies">
+    <string>Música en entrar a una sala</string>
+  </text>
+  <text alias="language-menu">
+    <string>Tria l'idioma</string>
+  </text>
+  <text alias="show-credits">
+    <string>Crèdits</string>
+  </text>
+  <text alias="exit-game">
+    <string>Surt</string>
+  </text>
+  <text alias="confirm-quit">
+    <string font="big" color="cyan">Prem Escape per abandonar</string>
+  </text>
+  <text alias="confirm-resume">
+    <string font="big" color="yellow">Prem altra tecla per a continuar</string>
+  </text>
+  <text alias="save-game">
+    <string font="big" color="orange">Gràcies al peix de la reencarnació</string>
+    <string font="big" color="orange">pots gravar el joc prement SPACE</string>
+  </text>
   <text alias="score">
-    <properties>
-      <string>Puntuació</string>
-    </properties>
+    <string>Puntuació</string>
   </text>
-
   <text alias="explored-rooms">
-    <properties>
-      <string>Has explorat %d sales</string>
-    </properties>
+    <string>Has explorat %d sales</string>
   </text>
-
   <text alias="liberated-planets">
-    <properties>
-      <string>Has alliberat %d planetes</string>
-    </properties>
+    <string>Has alliberat %d planetes</string>
   </text>
-
   <text alias="rooms">
-    <properties>
-      <string>sales</string>
-    </properties>
+    <string>sales</string>
   </text>
-
   <text alias="planets">
-    <properties>
-      <string>planetes</string>
-    </properties>
+    <string>planetes</string>
   </text>
-
   <text alias="dummy">
-    <properties>
-      <string>Aprenent</string>
-    </properties>
+    <string>Aprenent</string>
   </text>
-
   <text alias="novice">
-    <properties>
-      <string>Principiant</string>
-    </properties>
+    <string>Principiant</string>
   </text>
-
   <text alias="spy">
-    <properties>
-      <string>Espia</string>
-    </properties>
+    <string>Espia</string>
   </text>
-
   <text alias="master-spy">
-    <properties>
-      <string>Mestre Espia</string>
-    </properties>
+    <string>Mestre Espia</string>
   </text>
-
   <text alias="hero">
-    <properties>
-      <string>Heroi</string>
-    </properties>
+    <string>Heroi</string>
+  </text>
+  <text alias="liberator">
+    <string>Alliberador</string>
+  </text>
+  <text alias="final-text">
+    <string font="big" color="multicolor">La gent es felicita!</string>
+    <string></string>
+    <string color="white">I així, estimat o estimada amiga,</string>
+    <string color="cyan">elsnostres dos herois posen fi a la</string>
+    <string color="orange">tirania de l'Emperor de Blacktooth,</string>
+    <string color="yellow">per sempre.</string>
   </text>
 
 </language>
