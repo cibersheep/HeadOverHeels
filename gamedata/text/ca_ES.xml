@@ -93,16 +93,16 @@
       <string>Dibuixa el fons</string>
   </text>
   <text alias="show-miniatures">
-      <string>Mostra les miniatures de les habitacions</string>
+      <string>Mostra miniatures de sales</string>
   </text>
   <text alias="center-camera-on">
       <string>Centra la càmera a</string>
   </text>
   <text alias="room">
-      <string>la sala</string>
+      <string>sala</string>
   </text>
   <text alias="character">
-      <string>el personatge</string>
+      <string>prota</string>
   </text>
   <text alias="graphic-set">
       <string>Tria el conjunt de gràfics</string>
