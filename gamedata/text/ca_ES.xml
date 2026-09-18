@@ -87,13 +87,13 @@
       <string>Pantalla sencera</string>
   </text>
   <text alias="draw-shadows">
-      <string>Dibuixa lesombres</string>
+      <string>Dibuixa les ombres</string>
   </text>
   <text alias="draw-decor">
       <string>Dibuixa el fons</string>
   </text>
   <text alias="show-miniatures">
-      <string>Mostra miniatures de sales</string>
+      <string>Mminiatures de sales?</string>
   </text>
   <text alias="center-camera-on">
       <string>Centra la càmera a</string>
